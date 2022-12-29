@@ -1,0 +1,24 @@
+.cartSection{
+    background-color: #323033;
+    padding: 15px 10px;
+}
+.cartSection .ant-card {
+    background-color: #5B565A;
+
+    color: #fff;
+    border: 1px solid #5B565A;
+}
+.cartSection .ant-card .ant-card-body{
+    padding: 15px;
+}
+.cartSection .ant-card .ant-card-body .ant-btn-primary{
+    background-color: #5b565a;
+    border-color: #A29E9F;
+}
+.ant-card .ant-card-body .ant-badge .ant-badge-count{
+    height: 30px;
+    border-radius: 50px;
+    line-height: 30px;
+    padding: 0 13px;
+    font-size: 16px;
+}
